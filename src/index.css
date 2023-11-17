@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@400;500;700&display=swap');
+
+* {
+  box-sizing: border-box;
+
+  --color-white: white;
+
+  --color-gray: gray;
+  --color-gray-light: rgb(216, 215, 215);
+
+  --color-pink: rgb(209, 107, 204);
+  --color-pink-light: rgb(182, 154, 154);
+
+  --color-green-light: rgb(81, 192, 81);
+
+  --color-yellow: yellow;
+
+  --color-red-light: rgb(226, 21, 21);
+  --color-red-dark: rgb(110, 23, 23);
+
+  --color-grafit: rgba(37, 39, 48, 1);
+  --color-grafit-light: rgb(67, 70, 85);
+  --color-input-background: rgb(82, 87, 109);
+
+  --color-purple: rgb(82, 62, 97);
+  --color-purple-dark: rgb(48, 30, 61);
+}
+
+body {
+  background-color: var(--color-gray-light);
+
+  font-family: 'Jura', sans-serif;
+  color: var(--color-purple-dark);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+header,
+footer,
+main {
+  border-radius: 8px;
+  padding: 16px;
+  background-color: var(--color-white);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clear: rect(0 0 0 0);
+  clip-path: inset(100%);
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+input,
+button {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+body {
+  margin: 0;
+  padding: 0;
+}

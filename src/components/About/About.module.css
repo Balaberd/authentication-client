@@ -1,0 +1,15 @@
+.About {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+}
+
+.paragrahp {
+  text-align: justify;
+}
+
+.warning {
+  font-size: 24px;
+}

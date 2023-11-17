@@ -1,0 +1,24 @@
+.customInput {
+  padding: 14px 16px 16px 16px;
+  height: 24px;
+  background-color: var(--color-input-background);
+
+  display: flex;
+  gap: 16px;
+  align-items: center;
+
+  border-radius: 4px;
+}
+
+.input {
+  all: unset;
+  width: 100%;
+  color: var(--color-input-color);
+  text-shadow: yellow 0 0 2px;
+}
+
+.input::placeholder {
+  color: var(--color-font-title);
+  opacity: .4;
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+
+}
+
+.icon {
+  fill: var(--color-pink);
+}
+
+.submitButton {
+  margin-top: 24px;
+}
+
+.error {
+  max-width: 350px;
+  color: var(--color-yellow);
+  text-align: center;
+}
