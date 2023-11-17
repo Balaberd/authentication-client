@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Balaberd/authentication-client/static/css/main.71da9482.css",
+    "main.js": "/Balaberd/authentication-client/static/js/main.48c1d188.js",
+    "index.html": "/Balaberd/authentication-client/index.html",
+    "static/media/enter.svg": "/Balaberd/authentication-client/static/media/enter.d1cf561305c5c99c313b77bea25a9ade.svg",
+    "static/media/email.svg": "/Balaberd/authentication-client/static/media/email.857335961bc39fb9a7fe710f54ff8642.svg",
+    "static/media/lock.svg": "/Balaberd/authentication-client/static/media/lock.f1c641897930d6ee29ff4a36494dcc14.svg",
+    "static/media/user.svg": "/Balaberd/authentication-client/static/media/user.bae37d29bff40385bc3a79f5966832bf.svg",
+    "main.71da9482.css.map": "/Balaberd/authentication-client/static/css/main.71da9482.css.map",
+    "main.48c1d188.js.map": "/Balaberd/authentication-client/static/js/main.48c1d188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71da9482.css",
+    "static/js/main.48c1d188.js"
+  ]
+}
